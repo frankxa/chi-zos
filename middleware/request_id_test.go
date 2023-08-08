@@ -5,8 +5,6 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
-
-	"github.com/go-chi/chi/v5"
 )
 
 func maintainDefaultRequestID() func() {

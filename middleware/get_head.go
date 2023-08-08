@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/go-chi/chi/v5"
+	"github.com/frankxa/chi-zos/v5"
 )
 
 // GetHead automatically route undefined HEAD requests to GET handlers.

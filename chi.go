@@ -9,8 +9,8 @@
 //	import (
 //		"net/http"
 //
-//		"github.com/go-chi/chi/v5"
-//		"github.com/go-chi/chi/v5/middleware"
+//		"github.com/frankxa/chi-zos/v5"
+//		"github.com/frankxa/chi-zos/v5/middleware"
 //	)
 //
 //	func main() {

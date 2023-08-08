@@ -20,7 +20,7 @@ and [docgen](https://github.com/go-chi/docgen). We hope you enjoy it too!
 
 ## Install
 
-`go get -u github.com/go-chi/chi/v5`
+`go get -u github.com/frankxa/chi-zos/v5`
 
 
 ## Features
@@ -49,8 +49,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/chi/v5/middleware"
+	"github.com/frankxa/chi-zos/v5"
+	"github.com/frankxa/chi-zos/v5/middleware"
 )
 
 func main() {
@@ -76,8 +76,8 @@ above, they will show you all the features of chi and serve as a good form of do
 import (
   //...
   "context"
-  "github.com/go-chi/chi/v5"
-  "github.com/go-chi/chi/v5/middleware"
+  "github.com/frankxa/chi-zos/v5"
+  "github.com/frankxa/chi-zos/v5/middleware"
 )
 
 func main() {
@@ -494,7 +494,7 @@ Copyright (c) 2015-present [Peter Kieltyka](https://github.com/pkieltyka)
 
 Licensed under [MIT License](./LICENSE)
 
-[GoDoc]: https://pkg.go.dev/github.com/go-chi/chi/v5
+[GoDoc]: https://pkg.go.dev/github.com/frankxa/chi-zos/v5
 [GoDoc Widget]: https://godoc.org/github.com/go-chi/chi?status.svg
 [Travis]: https://travis-ci.org/go-chi/chi
 [Travis Widget]: https://travis-ci.org/go-chi/chi.svg?branch=master

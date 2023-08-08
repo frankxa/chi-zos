@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-chi/chi/v5"
+	"github.com/frankxa/chi-zos/v5"
 )
 
 var testContent = []byte("Hello world!")

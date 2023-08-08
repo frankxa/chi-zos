@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-chi/chi/v5"
+	"github.com/frankxa/chi-zos/v5"
 )
 
 func panicingHandler(http.ResponseWriter, *http.Request) { panic("foo") }
